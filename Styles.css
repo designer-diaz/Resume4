@@ -1,0 +1,23 @@
+
+    html {
+    background-color: #DFCCFB;  
+    }
+h2 {
+    background-color: #FFF3DA; font-weight: normal;
+}
+.position {
+    color:#35155D
+}
+h1 {
+    text-align: center;
+}
+
+.photo { 
+    border-radius: 30%;
+  margin-left: 35%;
+ 
+}
+
+.footer {
+    font-size: 10px;
+}
